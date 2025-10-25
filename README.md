@@ -1,5 +1,5 @@
 # 👽 Hi there 👋, Lucas here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lucasz-py.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Lucasz-py?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lucasz-py.repoName) [![GitHub followers](https://img.shields.io/github/followers/Lucasz-py.svg?style=social&label=Follow)](https://github.com/Lucasz-py?tab=followers)<br/>
 
 
 <div id="user-content-toc">
