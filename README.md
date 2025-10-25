@@ -20,13 +20,6 @@
   <h2 style="display: inline-block">⭐ Connect with me ☕</h2>
 </div>
 
-<p align="center">
-  <a href="https://www.instagram.com/lucasz.27/" style="margin-right: 25px;">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="@lucasz.27" alt="Instagram @lucasz.27" />
-  </a>
-  <a href="mailto:escobarlucas27.10@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="escobarlucas27.10@gmail.com" alt="Gmail escobarlucas27.10@gmail.com" />
-  </a>
-</p>
+<p align="center"><a href="https://www.instagram.com/lucasz.27/" style="margin-right: 25px;"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="@lucasz.27" alt="Instagram @lucasz.27" /></a><a href="mailto:escobarlucas27.10@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="escobarlucas27.10@gmail.com" alt="Gmail escobarlucas27.10@gmail.com" /></a></p>
 
 <br>
