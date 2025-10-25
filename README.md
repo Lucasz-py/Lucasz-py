@@ -1,4 +1,3 @@
-
 # 👽 Hi there 👋, Lucas here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lucasz-py.repoName) [![GitHub followers](https://img.shields.io/github/followers/Lucasz-py.svg?style=social&label=Follow)](https://github.com/Lucasz-py?tab=followers)<br/>
 
@@ -22,10 +21,10 @@
 </div>
 
 <p align="center">
-  <a href="https://www.instagram.com/lucasz.27/">
+  <a href="https://www.instagram.com/lucasz.27/" style="margin-right: 25px;">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="@lucasz.27" alt="Instagram @lucasz.27" />
   </a>
-  &nbsp;&nbsp; <a href="mailto:escobarlucas27.10@gmail.com">
+  <a href="mailto:escobarlucas27.10@gmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="escobarlucas27.10@gmail.com" alt="Gmail escobarlucas27.10@gmail.com" />
   </a>
 </p>
