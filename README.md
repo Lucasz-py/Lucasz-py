@@ -16,7 +16,9 @@
     <img src="https://skillicons.dev/icons?i=react,js,ts,java,c,html,css,py,git,discord,github" />
   </a>
 </p>
-## ⭐ Connect with me ☕ 
+<div align="center">
+  <h2 style="display: inline-block">⭐ Connect with me ☕</h2>
+</div>
 
 <br>
 
