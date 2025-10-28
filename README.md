@@ -1,4 +1,3 @@
-
 # 👽 Hi there 👋, Lucas here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Lucasz-py.repoName) [![GitHub followers](https://img.shields.io/github/followers/Lucasz-py.svg?style=social&label=Follow)](https://github.com/Lucasz-py?tab=followers)<br/>
 
@@ -19,7 +18,7 @@
 </div>
 
 <p align="center">
-  <a href="https://skillicons.dev" style="text-decoration: none;">
+  <a href="https://skillicons.dev" style="text-decoration: none; border: 0;">
     <img src="https://skillicons.dev/icons?i=react,js,ts,java,c,html,css,py,git,discord,github" />
   </a>
 </p>
