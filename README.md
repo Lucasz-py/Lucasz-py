@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQ4MjRmYjZnaTgwNjcyZ3Z3aXYwbnoyd2h6aWNpbTNmY3kybnp3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ozf4qM5aX1qUqwtmFF/giphy.gif" alt="Coding GIF" width="400" />
 </p>
-
 <div id="user-content-toc">
   <ul align="center">
   	<summary><h2 style="display: inline-block">⭐ Technologies That I Know👨🏻‍💻</h2></summary>
